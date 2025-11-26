@@ -9,7 +9,7 @@ export default function Home() {
         Welcome to my personal space on the internet!  
         I'm someone who loves exploring new ideas, creating cool projects, and discovering
         what I'm really passionate about.  
-        This website is where I share a little piece of my journey — I’m glad you’re here!
+        This website is where I share a little piece of my journey I’m glad you’re here!
       </p>
 
       <p style={{ marginTop: "20px", fontSize: "16px", opacity: 0.8 }}>
